@@ -1,0 +1,12 @@
+{
+  "name": "gibwork-ph-bounty-cli",
+  "version": "1.0.0",
+  "description": "Tool for Port Harcourt devs to find and filter Gibwork bounties fast",
+  "main": "index.js",
+  "author": "David Moses Umoh - PH City",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["gibwork", "solana", "bounty", "portharcourt", "cli"]
+}
